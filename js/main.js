@@ -92,8 +92,8 @@ window.addEventListener("load", function () {
     setTimeout(function () {
       preloader.style.display = "none";
       content.style.display = "block"; 
-    }, 1000); 
-  }, 1000);
+    }, 500);
+  }, 500);
 });
     
 

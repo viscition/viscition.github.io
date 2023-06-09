@@ -93,7 +93,7 @@ window.addEventListener("load", function () {
       preloader.style.display = "none";
       content.style.display = "block"; 
     }, 1000); 
-  }, 200);
+  }, 1000);
 });
     
 
